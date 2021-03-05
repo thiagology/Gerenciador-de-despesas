@@ -1,0 +1,44 @@
+header#main-header{
+    width: 100%;
+    height: 60px;
+    background: #1C1C1C;
+    font-size: 18px;
+    font-weight: bold;
+    color: #FFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header{
+    padding: 1em;
+    color: white;
+    background-color: #34495e;
+    clear: left;
+    text-align: center;
+    font-family: Titillium Web, sans-serif;
+    
+    position: fixed;
+    top:0;
+}
+
+.navbar{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+.navbar .navbar-brand{
+    color: #8844ee;
+}
+
+.nav-link{
+    color: #8844ee;
+    color: #FFF;
+}
+
+.nav-link:hover{
+    color: #FFF;
+    color: #8844ee;
+}

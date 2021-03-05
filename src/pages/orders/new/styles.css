@@ -1,0 +1,35 @@
+strong.title{
+    margin-left: 200px;
+    margin-right: 35px;
+    font-size: 30px;
+}
+
+p.total{
+    margin-left: 230px;
+}
+
+p{
+    height: 1px;
+}
+
+p.preco{
+    margin-bottom: 30px;
+}
+
+input.input-number{
+    margin-left: 230px;
+    color: #8844ee;
+    margin-bottom: 25px;
+    padding-left: 35px;
+    margin-bottom: 35px;
+}
+
+.qnt{
+    margin-left: 230px;
+    text-align: center;
+}
+
+article{
+    height: 200px;
+}
+

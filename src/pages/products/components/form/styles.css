@@ -1,0 +1,15 @@
+form{
+    margin-top: 60px;
+    width: 500px;
+}
+
+.btn.btn-primary{
+    background: #8844ee;
+    color: #fff;
+}
+
+.btn.btn-primary:hover{
+    background: #8844ee;
+    border: 2px solid;
+    border-color: #1E90FF;
+}

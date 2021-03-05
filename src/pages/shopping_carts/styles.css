@@ -1,0 +1,46 @@
+.cart-in-use {
+    max-width: 700px;
+    margin: 80px auto 0;
+    padding: 0 20px;
+}
+
+.cart-in-use article {
+    height: 100px;
+    background: #8844ee;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.cart-in-use article p {
+    font-size: 16px;
+    color: white;
+    margin-top: 5px;
+    line-height: 24px;
+}
+
+.cart-in-use article a {
+    width: 50px;
+    height: 50px;
+    margin-left: 570px;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-number {
+    width: 100px;
+    height: 50px;
+    color: black;
+    font-weight: bold;
+    font-size: 40px;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

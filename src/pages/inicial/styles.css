@@ -1,0 +1,47 @@
+#divInicial{
+    margin-top: 200px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+article{
+    align-items: center;
+}
+
+article a{
+    height: 42px;
+    border-radius: 5px;
+    border: 2px solid #8844ee;
+    background: none;
+    margin-top: 10px;
+    color: black;
+    font-weight: bold;
+    font-size: 80px;
+    text-decoration: none;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    transition: all 0.2s;
+
+    width: 170px;
+    height: 170px;
+}
+
+.nav-item.btn a{
+    color: black;
+}
+
+.nav-item.btn a:hover{
+    color: #fff;
+    font-size: 67px;
+}
+
+article a:hover{
+    background: #8844ee;
+    color: #fff;
+}
+
+.titleButton{
+    color: #fff;
+    font-size: 20px;
+}
